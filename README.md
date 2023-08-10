@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gauravaayu" alt="gauravaayu" /></a> </p>
 
+<p align="left"> <a href="https://twitter.com/gaurav_0627" target="blank"><img src="https://img.shields.io/twitter/follow/gaurav_0627?logo=twitter&style=for-the-badge" alt="gaurav_0627" /></a> </p>
+
 - 🌱 I’m currently learning **Next.Js, Devops**
 
 - 🤝 I’m looking for new job role **Software Engineer**
@@ -13,7 +15,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1GW0bnwsWspahvY04QPR5peEq1rS5_MMX/view?usp=sharing](https://drive.google.com/file/d/1GW0bnwsWspahvY04QPR5peEq1rS5_MMX/view?usp=sharing)
 
-- ⚡ Fun fact **I love to learn new things..**
+- ⚡ Fun fact **I love to learn new technology**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
